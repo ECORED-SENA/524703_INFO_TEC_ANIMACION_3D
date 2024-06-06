@@ -1,7 +1,7 @@
-# **INFO_228138_Desarrollo_Implementacion_Soluiones_Transformacion_Digital**
+# **524703_INFO_TEC_ANIMACION_3D**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/INFO_228138_Desarrollo_Implementacion_Soluciones_Transformacion_Digital/](https://ecored-sena.github.io/INFO_228138_Desarrollo_Implementacion_Soluciones_Transformacion_Digital/)
+[https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/](https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/)
 
 #
